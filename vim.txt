@@ -1,0 +1,36 @@
+Hint1: capital letter means press SHIFT+letter
+Ex: 	o: add a line after cursor line
+	O: add a line before cursor line
+Hint2: to do the commands you have to go to the command mode!
+
+i or INS key:		insert mode
+ESC key:		command mode	
+u:			undo
+CTRL + r:		redo
+f + someThing:		find:looking for someThing in the file
+gg: 			go to first line
+G:			go to end line
+d0:			cut from cursor until the first of line
+D:			cut from cursor until the end of line
+r + someThing:		replace the selected caracters with someThing
+zz:			put the cursor line in the middle of page
+zt:			put the cursor line in the top of page
+zb:			put the cursor line in the bottom of page
+gcc:			comment this line or uncomment
+gv:			reselect the last selection
+3gt:			go to third tab
+1gt:			go to first tab
+gt:			go to the next tab
+G:			go to the previous tab
+diw:
+ciw:
+di":
+ci":
+di(:
+ci(:
+
+	
+
+
+	
+
